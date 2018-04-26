@@ -57,3 +57,4 @@ Release 1.0.1 - April 18, 2018
 Release 1.0.0 - April 16, 2018
 [FEATURE] Generate properties and template file out of edmx file
 [FEATURE] Build new edmx fileout of a properties and template file
+
