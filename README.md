@@ -1,6 +1,5 @@
 # EDMX-Label-Build-Runtime
 
-EDMX Label Builder
 NL for Business
 The Netherlands
 www.nl4b.com
